@@ -1,0 +1,2 @@
+# codedojo
+Everyday code dojo
